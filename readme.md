@@ -45,13 +45,15 @@ Description: Treat yourself to moist and flavorful goodness with our freshly bak
 
 **Name:** John Aivanne Molato
 
+**Email:** Molatojohnaivanneofficial@gmail.com
+
 ## About the Authors
 <img src="nick.jpg" alt="Your Name" width="150" style="border-radius: 50%">
 
 **Name:** Nick Brienne Martinez
 
 
-**Email:** Molatojohnaivanneofficial@gmail.com
+**Email:** Nickbriennemartinez@gmail.com
 
 [![Facebook](facebook.png)](https://www.facebook.com/aybanxxx)
 [![GitHub](github-sign.png)](https://github.com/aybanmola22y)
