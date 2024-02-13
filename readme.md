@@ -32,31 +32,21 @@ Description: Indulge in the classic Italian favorite - a harmonious trio of espr
 Description: A harmonious blend of smooth espresso and creamy steamed milk, topped with a delicate layer of froth.
 
 ### Image 3
-![Image 3](scones.jpg)
+![Image 3](expresso.jpg)
 Description: Indulge in a British classic – our freshly baked scones are delightfully tender and crumbly. 
 
 ### Image 4
-![Image 4](muffins.png)
+![Image 4](scones.jpg)
 Description: Treat yourself to moist and flavorful goodness with our freshly baked muffins.
 
 
 ## About the Authors
-<img src="ayban.jpeg" alt="Your Name" width="150" style="border-radius: 50%">
+<img src="https://avatars.githubusercontent.com/u/125982979?v=4" alt="Your Name" width="150" style="border-radius: 50%">
 
 **Name:** John Aivanne Molato
+
 
 **Email:** Molatojohnaivanneofficial@gmail.com
 
 [![Facebook](facebook.png)](https://www.facebook.com/aybanxxx)
 [![GitHub](github-sign.png)](https://github.com/aybanmola22y)
-
-## About the Authors
-<img src="nick.jpg" alt="Your Name" width="150" style="border-radius: 50%">
-
-**Name:** Nick Brienne Martinez
-
-
-**Email:** Nickbriennemartinez@gmail.com
-
-[![Facebook](facebook.png)](https://www.facebook.com/Amenesus)
-[![GitHub](github-sign.png)](https://github.com/nck-brnne)
